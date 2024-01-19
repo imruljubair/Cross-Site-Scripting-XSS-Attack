@@ -1,4 +1,4 @@
-# Cross-Site-Scripting-XSS-Attack
+# Cross Site Scripting (XSS) Attack
 
 CU Boulder - Spring 2023 - Cyber Security Course Project
 
